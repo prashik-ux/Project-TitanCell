@@ -102,8 +102,6 @@ Bloomberg, Apple’s New Battery Push Aims at 2026 Devices (2025)
 
 Apple Materials R&D Division
 
-ATL, TDK, Murata – for supply chain and co-development
-
 Advanced Battery Research Group
 
 Contributors to open-source battery modeling tools and thermal simulation platforms
