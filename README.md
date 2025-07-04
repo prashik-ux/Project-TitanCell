@@ -90,13 +90,13 @@ Planned Target: iPhone/iWatch (2026–2028)
 
 H. Wu et al., Engineering Silicon Anodes for High-Performance Batteries, Nature Nanotech (2023)
 
-K. Obrovac, Silicon–Graphite Composite Anodes, J. Power Sources (2022)(https://www.sciencedirect.com/science/article/pii/S0378775322001987)
+[K. Obrovac, Silicon–Graphite Composite Anodes, J. Power Sources (2022)](https://www.sciencedirect.com/science/article/pii/S0378775322001987)
 
-Apple Supplier Insight: TDK, Murata, ATL public filings (2024–2025)(https://s203.q4cdn.com/367071867/files/doc_downloads/2025/04/23/Apple-Supply-Chain-2025-Progress-Report.pdf) 
+[Apple Supplier Insight: TDK, Murata, ATL public filings (2024–2025)](https://s203.q4cdn.com/367071867/files/doc_downloads/2025/04/23/Apple-Supply-Chain-2025-Progress-Report.pdf) 
 
-S. Manna et al., ML for Battery Stability Prediction, Materials Advances (2022)(https://pubs.rsc.org/en/content/articlepdf/2022/MA/D2MA00746K)
+[S. Manna et al., ML for Battery Stability Prediction, Materials Advances (2022)](https://pubs.rsc.org/en/content/articlepdf/2022/MA/D2MA00746K)
 
-Bloomberg, Apple’s New Battery Push Aims at 2026 Devices (2025)(https://www.bloomberg.com/news/articles/2025-05-12/apple-plans-ai-powered-battery-management-mode-for-devices-in-ios-19)
+[Bloomberg, Apple’s New Battery Push Aims at 2026 Devices (2025)](https://www.bloomberg.com/news/articles/2025-05-12/apple-plans-ai-powered-battery-management-mode-for-devices-in-ios-19)
 
 ## Acknowledgments
 
